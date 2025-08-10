@@ -97,8 +97,7 @@ Do you want to save this summary to a file? (y/n): y
 ---
 
 ## 📌 Author
-
-**\[Nagula Lahari]**
+Nagula Lahari
 Python Programming Intern @ [CodeAlpha](https://www.codealpha.tech)
 
 ---
@@ -107,9 +106,4 @@ Python Programming Intern @ [CodeAlpha](https://www.codealpha.tech)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
 
----
-
-
-```
