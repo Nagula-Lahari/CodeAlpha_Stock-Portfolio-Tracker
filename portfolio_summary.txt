@@ -1,0 +1,6 @@
+=== Portfolio Summary ===
+AAPL - 54321 shares - Value: $9777780
+TSLA - 894 shares - Value: $223500
+GOOG - 12321 shares - Value: $1478520
+
+Total Investment Value: $11479800
