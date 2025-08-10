@@ -79,7 +79,7 @@ The **Stock Portfolio Tracker** lets users enter stock symbols and quantities, c
 ---
 
 ## Author
-**[Your Name]**  
+**Nagula Lahari**  
 Python Programming Intern @ CodeAlpha
 
 ---
