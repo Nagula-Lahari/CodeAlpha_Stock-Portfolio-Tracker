@@ -28,8 +28,8 @@ The **Stock Portfolio Tracker** allows users to enter stock names and quantities
 
 CodeAlpha\_StockPortfolioTracker/
 │── stock\_tracker.py           # Main Python script
-│── README.md                   # Project description
-│── portfolio\_summary.txt       # Generated file after saving results
+│── README.md                  # Project description
+│── portfolio\_summary.txt      # Generated file after saving results
 
 ```
 
@@ -88,5 +88,29 @@ Do you want to save this summary to a file? (y/n): y
 
 ---
 
+## 🎯 Internship Requirement
 
+* **Repository Name:** `CodeAlpha_StockPortfolioTracker`
+* **Task Covered:** Stock Portfolio Tracker
+* **Mentorship Provided By:** [CodeAlpha](https://www.codealpha.tech)
 
+---
+
+## 📌 Author
+
+Nagula Lahari
+Python Programming Intern @ [CodeAlpha](https://www.codealpha.tech)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+```
+
+---
+
+If you want, I can now **add a CSV export feature** to your stock tracker and also update this README with an Excel screenshot section — that will make your GitHub repo stand out even more.  
+Do you want me to do that?
+```
