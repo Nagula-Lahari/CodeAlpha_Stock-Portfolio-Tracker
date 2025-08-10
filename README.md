@@ -88,6 +88,7 @@ Do you want to save this summary to a file? (y/n): y
 
 ---
 
+ ```
 ## 🎯 Internship Requirement
 
 * **Repository Name:** `CodeAlpha_StockPortfolioTracker`
