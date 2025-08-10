@@ -88,23 +88,5 @@ Do you want to save this summary to a file? (y/n): y
 
 ---
 
- ```
-## 🎯 Internship Requirement
-
-* **Repository Name:** `CodeAlpha_StockPortfolioTracker`
-* **Tasks Covered:** Stock Portfolio Tracker
-* **Mentorship Provided By:** [CodeAlpha](https://www.codealpha.tech)
-
----
-
-## 📌 Author
-Nagula Lahari
-Python Programming Intern @ [CodeAlpha](https://www.codealpha.tech)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
