@@ -75,16 +75,14 @@ Do you want to save this summary to a file? (y/n): y
 ````
 
 3. **Navigate to the project folder**:
-
-   ```bash
+ ```bash
    cd CodeAlpha_StockPortfolioTracker
-   ```
+````
 4. **Run the program**:
-
-   ```bash
+    ```bash
    python stock_tracker.py
-   ```
-5. **Follow on-screen instructions** to enter stock details and view total investment.
+````
+5. ****Follow on-screen instructions**** to enter stock details and view total investment.
 
 ---
 
